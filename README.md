@@ -38,4 +38,4 @@ Welcome to **MusicVideoHub**! This platform is designed to provide users with an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Samandar005/music-video-hub.git
+   git clone https://github.com/damirrustambek0v/music-video-hub.git
